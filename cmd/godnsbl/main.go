@@ -8,7 +8,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/mrichman/godnsbl"
+	"github.com/PetriTurunen/godnsbl"
 )
 
 func main() {
