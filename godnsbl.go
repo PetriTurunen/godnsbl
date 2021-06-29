@@ -17,8 +17,6 @@ import (
 Blacklists is the list of blackhole lists to check against
 */
 var Blacklists = []string{
-        // send spam within last 48 hours
-	"new.spam.dnsbl.sorbs.net",
 	"bl.spamcop.net",
 	"cbl.abuseat.org",
 	"recent.spam.dnsbl.sorbs.net",
